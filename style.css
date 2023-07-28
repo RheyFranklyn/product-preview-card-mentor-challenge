@@ -13,7 +13,7 @@ section{
     overflow: hidden;
 }
 .image{
-    background-image: url("/images/image-product-mobile.jpg");
+    background-image: url("images/image-product-mobile.jpg");
     height: 250px;
     width: 100%;
     background-repeat: no-repeat;
