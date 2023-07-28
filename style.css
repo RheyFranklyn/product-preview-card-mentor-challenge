@@ -84,7 +84,7 @@ button p{
         margin: 100px 50px;
     }
     .image{
-        background-image: url(images/image-product-desktop.jpg);
+        background-image: url("images/image-product-desktop.jpg");
         margin: 0;
         height: auto;
         flex-basis: 50%;
@@ -93,7 +93,7 @@ button p{
         flex-basis: 50%;
     }
 }
-@media (min-width: 1440px){
+@media (min-width: 992px){
     section{
         margin: 10% 30%;       
     }
